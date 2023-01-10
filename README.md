@@ -4,9 +4,12 @@
 
 <br/><br/><br/>
 
-## apps  
+## Apps  
 
 ### binomial  
 
 [이항 분포(Binomial distribution)](https://en.wikipedia.org/wiki/Binomial_distribution)를 계산하는 샘플입니다.  
 
+
+## References  
+* [Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution)  
